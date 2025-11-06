@@ -207,16 +207,16 @@ POST /api/checkout
 ## 📸 Screenshots
 
 ### Product Grid
-![Product Grid](screenshots/products.png)
+![Product Grid](./Screenshots/products.png)
 
 ### Shopping Cart
-![Cart Sidebar](screenshots/cart.png)
+![Cart Sidebar](./Screenshots/cart.png)
 
 ### Checkout Form
-![Checkout](screenshots/checkout.png)
+![Checkout](./Screenshots/checkout.png)
 
 ### Receipt
-![Receipt](screenshots/receipt.png)
+![Receipt](./Screenshots/reciept.png)
 
 ## 🎥 Demo Video
 
