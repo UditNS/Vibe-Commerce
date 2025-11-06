@@ -1,0 +1,22 @@
+
+VIBE COMMERCE
+Purchase Receipt
+=====================================
+
+Order ID: 19655DD7
+Date: 06/11/2025, 16:33:06
+
+Customer Details:
+Name: Udit Narayan Singh
+Email: uditn007@gmail.com
+
+Items:
+Smart Watch x1 - $199.99
+Laptop Backpack x1 - $49.99
+Wireless Headphones x1 - $79.99
+
+-------------------------------------
+Total: $329.97
+
+Thank you for shopping with Vibe Commerce!
+    
