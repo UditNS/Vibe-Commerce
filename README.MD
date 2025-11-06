@@ -218,10 +218,6 @@ POST /api/checkout
 ### Receipt
 ![Receipt](./Screenshots/reciept.png)
 
-## 🎥 Demo Video
-
-[View Demo Video on Loom/YouTube](YOUR_VIDEO_LINK_HERE)
-
 ## ✨ Bonus Features Implemented
 
 - ✅ MongoDB database persistence
